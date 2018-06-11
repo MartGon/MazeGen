@@ -11,6 +11,7 @@ You can choose to solve the maze the way you like. You can solve the maze by cho
 # ![maze2](https://imgur.com/Ox2MLp9.png)
 # ![maze3](https://imgur.com/VjQTI8Z.png)
 # ![fp](https://imgur.com/eMGoer4.png)
+# ![fv](https://imgur.com/eNlz2wD.png)
  
 ## Download and play the game
  
